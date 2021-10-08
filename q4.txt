@@ -1,2 +1,2 @@
-Basicamente as figuras ilustram um projeto cooperativo de hardware e software, ou seja, ambientes heteregêneos que compreedem 
+Basicamente as figuras ilustram um projeto cooperativo de hardware e software, ou seja, ambientes heterogêneos que compreedem 
 especificações de componentes dos mesmos , balanceando reconfigurabilidade. Isso colabora para baixar custos e reduzir o time-to-market.
